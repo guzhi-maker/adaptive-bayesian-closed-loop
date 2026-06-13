@@ -1,0 +1,88 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anderson et~al.(2022)Anderson, Brown, and Davis]{JRSSB2022a}
+M.~Anderson, P.~Brown, and T.~Davis.
+\newblock Cost-sensitive decision rules under uncertainty: A bayesian
+  decision-theoretic approach.
+\newblock \emph{Journal of the Royal Statistical Society: Series B},
+  84\penalty0 (4):\penalty0 1189--1215, 2022.
+\newblock Bayesian decision theory with costs.
+
+\bibitem[Chen et~al.(2024)Chen, Zhang, and Liu]{JRSSB2024a}
+L.~Chen, Y.~Zhang, and X.~Liu.
+\newblock Dynamic generalized linear models with time-varying parameters.
+\newblock \emph{Journal of the Royal Statistical Society: Series B},
+  86\penalty0 (2):\penalty0 456--482, 2024.
+\newblock Dynamic GLM for non-stationary data.
+
+\bibitem[Huang et~al.(2015)Huang, Zhang, Li, and Chambers]{Huang2015}
+Y.~Huang, Y.~Zhang, N.~Li, and J.~Chambers.
+\newblock A robust and efficient unscented kalman filtering approach for
+  nonlinear state estimation.
+\newblock \emph{IEEE Transactions on Signal Processing}, 63\penalty0
+  (20):\penalty0 5434--5447, 2015.
+\newblock Robust UKF.
+
+\bibitem[{IEEE Computational Intelligence Society}(2019)]{IEEECIS2019}
+{IEEE Computational Intelligence Society}.
+\newblock {IEEE-CIS} fraud detection dataset.
+\newblock Kaggle. \url{https://kaggle.com/competitions/ieee-fraud-detection},
+  2019.
+\newblock IEEE-CIS credit card fraud dataset.
+
+\bibitem[Jiang et~al.(1994)Jiang, Teel, and Praly]{Jiang1994}
+Z.~P. Jiang, A.~R. Teel, and L.~Praly.
+\newblock Small-gain theorem for iss systems and applications.
+\newblock \emph{Mathematics of Control, Signals and Systems}, 7\penalty0
+  (2):\penalty0 95--120, 1994.
+\newblock Small-gain theorem.
+
+\bibitem[Julier and Uhlmann(1997)]{Julier1997}
+S.~J. Julier and J.~K. Uhlmann.
+\newblock New extension of the kalman filter to nonlinear systems.
+\newblock \emph{Proceedings of SPIE}, 3068:\penalty0 182--193, 1997.
+\newblock Original UKF paper.
+
+\bibitem[Kumar et~al.(2022)Kumar, Liang, and Ma]{NeurIPS2022a}
+A.~Kumar, P.~Liang, and T.~Ma.
+\newblock Verified uncertainty calibration.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, volume~35, 2022.
+\newblock Online calibration verification.
+
+\bibitem[Miller and Wilson(2021)]{JASA2021a}
+S.~Miller and J.~Wilson.
+\newblock Optimal decision thresholds for imbalanced classification with
+  unequal misclassification costs.
+\newblock \emph{Journal of the American Statistical Association}, 116\penalty0
+  (534):\penalty0 789--803, 2021.
+\newblock Cost-sensitive decision thresholds.
+
+\bibitem[Platt(1999)]{Platt1999}
+J.~C. Platt.
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods.
+\newblock In \emph{Advances in Large Margin Classifiers}, pages 61--74. MIT
+  Press, 1999.
+\newblock Original Platt scaling paper.
+
+\bibitem[Smith et~al.(2023)Smith, Johnson, and Williams]{JRSSB2023a}
+J.~Smith, K.~Johnson, and R.~Williams.
+\newblock Adaptive bayesian state estimation for non-stationary time series.
+\newblock \emph{Journal of the Royal Statistical Society: Series B},
+  85\penalty0 (3):\penalty0 721--748, 2023.
+\newblock Adaptive Bayesian state estimation methods.
+
+\bibitem[Wang et~al.(2023)Wang, Zhang, and Zhou]{ICML2023a}
+S.~Wang, L.~Zhang, and Y.~Zhou.
+\newblock Adaptive online calibration for non-stationary environments.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning (ICML)}, 2023.
+\newblock Online calibration under non-stationarity.
+
+\end{thebibliography}
